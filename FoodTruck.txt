@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Eagles Eats Business Plan</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background-color: #990000;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #eee;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #990000;
+      font-weight: bold;
+    }
+    section {
+      padding: 20px;
+      background-color: white;
+      margin: 10px auto;
+      max-width: 1000px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #990000;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 15px;
+    }
+    table, th, td {
+      border: 1px solid #ccc;
+      padding: 8px;
+    }
+    th {
+      background-color: #f0f0f0;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Eagles Eats</h1>
+  <p>“Soar High With Every Bite”</p>
+</header>
+
+<nav>
+  <a href="#description">Company Description</a>
+  <a href="#products">Products & Services</a>
+  <a href="#growth">Business Growth</a>
+  <a href="#sales">Sales & Estimates</a>
+  <a href="#startup">Startup & Finances</a>
+</nav>
+
+<section id="description">
+  <h2>I. General Company Description</h2>
+  <p><strong>Business Opportunity:</strong> Provide Bridgewater College students with quality food when traditional dining hours don’t fit their schedules.</p>
+  <p><strong>Problem Solved:</strong> Hunger, high food costs, and limited options.</p>
+  <p><strong>Solution:</strong> More accessible, affordable, and accommodating food through a mobile food truck.</p>
+  <p><strong>Business Type:</strong> Service (Mobile Food Truck)</p>
+  <p><strong>Ownership:</strong> LLC – to reduce liability and ensure operational flexibility.</p>
+  <p><strong>Mission Statement:</strong> We provide what college students need because we've been through it. We accommodate and satisfy every customer.</p>
+  <p><strong>Social Responsibility:</strong></p>
+  <ul>
+    <li>Donate unsold food to shelters</li>
+    <li>Partner with student organizations</li>
+    <li>Hire students and offer flexible work hours</li>
+  </ul>
+</section>
+
+<section id="products">
+  <h2>II. Products and Services</h2>
+  <p><strong>Menu Offerings:</strong></p>
+  <ul>
+    <li>Burgers & Sandwiches (vegetarian options too)</li>
+    <li>Tacos & Wraps</li>
+    <li>Fries, onion rings, mozzarella sticks</li>
+    <li>Soft drinks, coffee, desserts</li>
+  </ul>
+  <p><strong>Competitive Advantages:</strong> Late hours, fresh quality, cooked-to-order food</p>
+  <p><strong>Pricing:</strong></p>
+  <ul>
+    <li>Entrées: $6 - $10</li>
+    <li>Sides: $2 - $4</li>
+    <li>Drinks: $1 - $3</li>
+    <li>Combos: $8 - $12</li>
+  </ul>
+</section>
+
+<section id="growth">
+  <h2>III. Business Growth</h2>
+  <p><strong>Trends for Opportunity:</strong> Late-night dining, food truck popularity, social media buzz</p>
+  <p><strong>Next Steps:</strong></p>
+  <ul>
+    <li>Secure permits</li>
+    <li>Buy and outfit the truck</li>
+    <li>Launch on social media</li>
+    <li>Partner with student groups</li>
+  </ul>
+  <h3>Challenges</h3>
+  <ul>
+    <li>Food cost increases</li>
+    <li>Health/safety regulations</li>
+    <li>Campus competition</li>
+  </ul>
+</section>
+
+<section id="sales">
+  <h2>IV. Sales & Estimates</h2>
+  <p><strong>Sales Strategy:</strong> Events, social media, loyalty programs, student org partnerships</p>
+  <p><strong>Sales Estimates:</strong></p>
+  <table>
+    <tr>
+      <th>Month</th><th>Units</th><th>Revenue</th>
+    </tr>
+    <tr><td>January</td><td>1,000</td><td>$9,000</td></tr>
+    <tr><td>February</td><td>1,800</td><td>$16,200</td></tr>
+    <tr><td>March</td><td>1,500</td><td>$13,500</td></tr>
+    <tr><td>April</td><td>1,800</td><td>$16,200</td></tr>
+    <tr><td>May</td><td>600</td><td>$5,400</td></tr>
+    <tr><td>June</td><td>300</td><td>$2,700</td></tr>
+    <tr><td>July</td><td>300</td><td>$2,700</td></tr>
+    <tr><td>August</td><td>1,200</td><td>$10,800</td></tr>
+    <tr><td>September</td><td>1,800</td><td>$16,200</td></tr>
+    <tr><td>October</td><td>1,800</td><td>$16,200</td></tr>
+    <tr><td>November</td><td>1,500</td><td>$13,500</td></tr>
+    <tr><td>December</td><td>1,000</td><td>$9,000</td></tr>
+    <tr><th>Total</th><th>14,600</th><th>$131,400</th></tr>
+  </table>
+</section>
+
+<section id="startup">
+  <h2>V. Startup & Finances</h2>
+  <p><strong>Startup Investment Total:</strong> $118,500</p>
+  <p><strong>Fixed Monthly Expenses:</strong> $6,000</p>
+
+  <h3>Unit Economics</h3>
+  <ul>
+    <li><strong>Selling Price:</strong> $9.00</li>
+    <li><strong>Materials:</strong> $3.53</li>
+    <li><strong>Labor:</strong> $0.60</li>
+    <li><strong>Other Expenses:</strong> $0.90</li>
+    <li><strong>Total Variable Expenses:</strong> $5.03</li>
+    <li><strong>Contribution Margin:</strong> $3.97</li>
+  </ul>
+
+  <h3>Start-up Breakdown</h3>
+  <table>
+    <tr><th>Item</th><th>Cost</th></tr>
+    <tr><td>Food Truck</td><td>$45,000</td></tr>
+    <tr><td>Equipment</td><td>$15,000</td></tr>
+    <tr><td>Inventory</td><td>$5,000</td></tr>
+    <tr><td>Licenses</td><td>$2,000</td></tr>
+    <tr><td>Emergency Fund</td><td>$33,500</td></tr>
+    <tr><td>Fixed Expenses Reserve</td><td>$18,000</td></tr>
+    <tr><th>Total</th><th>$118,500</th></tr>
+  </table>
+
+  <h3>Key Financial Ratios</h3>
+  <ul>
+    <li><strong>Return on Sales (ROS):</strong> 18.5%</li>
+    <li><strong>Return on Investment (ROI):</strong> 20.1%</li>
+    <li><strong>Break-even Units:</strong> 1,232 meals/month</li>
+  </ul>
+</section>
+
+</body>
+</html>
