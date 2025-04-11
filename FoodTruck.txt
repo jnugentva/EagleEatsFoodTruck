@@ -17,7 +17,7 @@
       text-align: center;
     }
     nav {
-      background-color: #eee;
+      background-color: #FFD700;
       padding: 10px;
       text-align: center;
     }
@@ -49,11 +49,24 @@
     th {
       background-color: #f0f0f0;
     }
+    footer {
+      background-color: #990000;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 40px;
+    }
+    .eagle-logo {
+      width: 100px;
+      display: block;
+      margin: 0 auto 10px;
+    }
   </style>
 </head>
 <body>
 
 <header>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aquila_chrysaetos_canada2.jpg/640px-Aquila_chrysaetos_canada2.jpg" alt="Eagle Logo" class="eagle-logo">
   <h1>Eagles Eats</h1>
   <p>“Soar High With Every Bite”</p>
 </header>
@@ -64,6 +77,8 @@
   <a href="#growth">Business Growth</a>
   <a href="#sales">Sales & Estimates</a>
   <a href="#startup">Startup & Finances</a>
+  <a href="#about">About Us</a>
+  <a href="#contact">Contact</a>
 </nav>
 
 <section id="description">
@@ -177,6 +192,25 @@
     <li><strong>Break-even Units:</strong> 1,232 meals/month</li>
   </ul>
 </section>
+
+<section id="about">
+  <h2>VI. About Us</h2>
+  <p><strong>Our Story:</strong> Eagles Eats was founded by Bridgewater students who experienced the hunger struggle firsthand. We wanted to create a food solution that worked with the campus lifestyle and college budget.</p>
+  <p><strong>Our Mascot:</strong> The fierce, crimson-and-gold Eagle represents our commitment to strength, agility, and school spirit. Just like our mascot, we soar above expectations!</p>
+  <p><strong>Team Values:</strong> Passion, affordability, flexibility, and flavor. We're a student-first business that keeps it real.</p>
+</section>
+
+<section id="contact">
+  <h2>VII. Contact Us</h2>
+  <p>Email: <a href="mailto:info@eagleeats.com">info@eagleeats.com</a></p>
+  <p>Instagram: <a href="https://instagram.com/eagleeats" target="_blank">@eagleeats</a></p>
+  <p>Twitter/X: <a href="https://twitter.com/eagleeats" target="_blank">@eagleeats</a></p>
+  <p>Located at: Bridgewater College, Campus Commons</p>
+</section>
+
+<footer>
+  <p>&copy; 2025 Eagles Eats. All rights reserved. Built by students, for students.</p>
+</footer>
 
 </body>
 </html>
